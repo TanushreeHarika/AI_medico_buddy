@@ -1,0 +1,40 @@
+# Dependencies
+frontend/node_modules/
+backend/__pycache__/
+backend/agents/__pycache__/
+
+# Environment variables (NEVER push these)
+.env
+.env.local
+.env.production
+frontend/.env.local
+frontend/.env.production
+backend/.env
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Build
+frontend/dist/
+
+# Logs
+*.log
+emergency_logs.json
+backend/emergency_logs.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+*.pyc
+*.pyo
+venv/
+.venv/
+backend/venv/
+to_delete.txt

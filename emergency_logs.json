@@ -1,0 +1,13 @@
+[
+  {
+    "patient_condition": "SOS Emergency Triggered",
+    "patient_location_lat": 17.436255656284295,
+    "patient_location_lng": 78.46073591170817,
+    "patient_location_address": "Street Number 6, Kundanbagh, Ameerpet, Ward 98 Ameerpet, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Ameerpet mandal, Hyderabad, Telangana, 500016, India",
+    "severity": "critical",
+    "status": "pending",
+    "emergency_type": "general_emergency",
+    "timestamp": "2026-04-03T16:16:19.058062",
+    "notes": "Auto-triggered by LifePulse Agent. Condition: SOS Emergency Triggered. Location: Street Number 6, Kundanbagh, Ameerpet, Ward 98 Ameerpet, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Ameerpet mandal, Hyderabad, Telangana, 500016, India."
+  }
+]

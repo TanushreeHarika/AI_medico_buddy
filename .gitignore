@@ -6,6 +6,8 @@ venv/
 
 # Environment variables (NEVER push these)
 .env
+.env.example
+
 .env.local
 .env.production
 frontend/.env.local
